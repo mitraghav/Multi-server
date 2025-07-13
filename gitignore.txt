@@ -1,5 +1,5 @@
 # Ignore all files in the .gitignore file
 
-node_modules/
+pip install flake requested/
 uploads/
-package-lock.json
+package-main.py
